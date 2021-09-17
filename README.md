@@ -1,1 +1,3 @@
-# GRIPSEPT21_Data_Science
+# The Sparks Foundation  
+## Graduate Rotational Internship Program (GRIP)  
+### TASK 1
