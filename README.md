@@ -1,5 +1,6 @@
 # The Sparks Foundation  
 **Graduate Rotational Internship Program (GRIP)**  
+
 **TASK 1 - Prediction Using Supervised ML**
 
 Predict the percentage of an student based on the no. of study hours  
@@ -9,8 +10,6 @@ Predict the percentage of an student based on the no. of study hours
 •  What will be predicted score if a student studies for 9.25 hrs/ day?  
 •  Sample Solution : https://bit.ly/2HxIGGI  
 •  Task submission:  
-    1 Host the code on GitHub Repository (public). Record the code and
-        output in a video. Post the video on YouTube  
-    2 Share links of code (GitHub) and video (YouTube) as a post on
-        YOUR Linkedin profile, not TSF Network.  
-    3 Submit the LinkedIn link in Task Submission Form when shared.
+   * Host the code on GitHub Repository (public). Record the code and output in a video. Post the video on YouTube  
+   * Share links of code (GitHub) and video (YouTube) as a post on YOUR Linkedin profile, not TSF Network.  
+   * Submit the LinkedIn link in Task Submission Form when shared.
